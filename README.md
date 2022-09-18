@@ -27,7 +27,7 @@ The user always has the first move. Two consecutive console messages will ask th
 
 ### Input Validation
 
-If the territory is marked or the chosen position is not valid or the input is not a number, appropriate messages will be shown to the user
+If the territory is marked or the chosen position is not valid or the input is not a number, appropriate messages will be shown to the user.
 
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/98110966/190892636-0d73ec7c-2dea-46ec-ae6d-4fd3f6ac6111.png">
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/98110966/190892693-44ac0058-689e-4674-89dc-0589eeab0463.png">
@@ -36,10 +36,10 @@ If the territory is marked or the chosen position is not valid or the input is n
 
 # Gameplay Demonstration
 
-### Player wins
-
-https://user-images.githubusercontent.com/98110966/190894659-c89ed7b4-7b41-4ad8-8a1f-aa61d7c9348b.mp4
-
 ### Computer wins
 
 https://user-images.githubusercontent.com/98110966/190895059-55560f96-2d26-467c-9dbb-e065cb12786d.mp4
+
+### Player wins
+
+https://user-images.githubusercontent.com/98110966/190894659-c89ed7b4-7b41-4ad8-8a1f-aa61d7c9348b.mp4
