@@ -29,9 +29,17 @@ The user always has the first move. Two consecutive console messages will ask th
 
 If the territory is marked or the chosen position is not valid or the input is not a number, appropriate messages will be shown to the user.
 
+<p align="center">
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/98110966/190895811-46015bec-12e0-495d-9c83-6facdfc886bb.png">
+</p>
+
+<p align="center">
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/98110966/190895786-7101e73a-c484-4f62-a905-fe73b5046440.png">
+</p>
+
+<p align="center">
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/98110966/190895858-c7817495-7a6b-4e0a-9bb4-08478627ee52.png">
+</p>
 
 # Gameplay Demonstration
 
