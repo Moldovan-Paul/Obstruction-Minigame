@@ -18,7 +18,7 @@ Rules for the game are straight forward:
 * Players take turns in marking accessible territories on a 6x6 grid 
   - Territories available to be marked are represented by a hyphen `-`
   - A player marked territory is represented by an `X` and a computer marked territory is represented by an `O`
-  - Marking a territory will also mark all neighbouring territories as inaccessible with a plus sign `+`
+  - Marking a territory will also mark all neighboring territories as inaccessible with a plus sign `+`
 * The first player unable to move loses.
 
 # How to Play
